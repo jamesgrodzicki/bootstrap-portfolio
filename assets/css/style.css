@@ -36,3 +36,18 @@ p {
     background-color: #777;
     border-top: 5px solid #4aaaa5;
 }
+
+.project-container{
+    position: relative;
+}
+
+.project-container h4{
+    color: white;
+    background-color: #4aaaa5;
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 10px
+}
