@@ -39,6 +39,7 @@ p {
 
 .project-container{
     position: relative;
+    display: block;
 }
 
 .project-container h4{
