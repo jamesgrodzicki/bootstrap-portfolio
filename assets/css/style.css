@@ -40,6 +40,8 @@ p {
 .project-container{
     position: relative;
     display: block;
+    width: 344px;
+    height: 260px;
 }
 
 .project-container h4{
